@@ -1,0 +1,43 @@
+@media (max-width: 900px) {
+  .css-y9x6uf-MuiAvatar-root {
+    margin-top: 0;
+  }
+}
+@media (min-width: 1536px) {
+  .css-b1im03-MuiGrid-root {
+    margin-top: -150px;
+  }
+}
+@media (max-width: 1536px) and (min-width: 1370px) {
+  .css-b1im03-MuiGrid-root {
+    margin-top: -180px;
+  }
+}
+@media (max-width: 1370px) and (min-width: 1200px) {
+    .css-b1im03-MuiGrid-root {
+      margin-top: -200px;
+    }
+  }
+  @media (max-width: 1200px) and (min-width: 900px) {
+    .css-b1im03-MuiGrid-root {
+      margin-top: -180px;
+    }
+  }
+@media (max-width: 900px) {
+  .css-b1im03-MuiGrid-root {
+    margin-top: 0;
+  }
+}
+
+.css-388y4j-MuiFormLabel-root-MuiInputLabel-root {
+  color: #2065d1;
+}
+.css-1ifcsjq-MuiFormLabel-root-MuiInputLabel-root {
+  color: #2065d1;
+}
+.css-n26ql7-MuiInputBase-input-MuiOutlinedInput-input {
+  color: #2065d1;
+}
+.css-e9crry-MuiInputBase-input-MuiOutlinedInput-input {
+  color: #2065d1;
+}
